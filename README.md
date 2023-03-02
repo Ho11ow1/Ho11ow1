@@ -8,11 +8,11 @@
 
 ### ⌨ Languages
 - Languages I feel comfortable with:
-- <br>
+<br>
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark">
 
 - Other that I know: 
-- <br>
+<br>
 <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark">
 
 ## 📄 Data
