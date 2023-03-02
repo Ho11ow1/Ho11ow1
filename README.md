@@ -1,8 +1,8 @@
-# <p style="text-align:center">
+# <p align="center">
 Hi there 👋
 </p>
 
-### <p style="text-align:center">
+### <p align="center">
 I'm a FrontEnd Developer and i'm trying to learn BackEnd
 </p>
 
@@ -11,15 +11,17 @@ I'm a FrontEnd Developer and i'm trying to learn BackEnd
 #### 🧰 Frameworks: `Vue` and `React`
 
 ### ⌨ Languages
-- Languages I feel comfortable with:<br>
+- Languages I feel comfortable with:
+- <br>
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark">
 
-- Other that I know: <br>
+- Other that I know: 
+- <br>
 <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark">
 
 ## 📄 Data
 
-<div style="text-align:center">
+<div align="center">
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
