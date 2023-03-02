@@ -12,7 +12,7 @@ I'm a FrontEnd Developer and i'm trying to learn BackEnd
 
 ### ⌨ Languages
 - Languages I feel comfortable with:<br>
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark">
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark">
 
 - Other that I know: <br>
 <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark">
