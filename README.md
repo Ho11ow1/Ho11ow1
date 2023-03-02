@@ -1,10 +1,6 @@
-# <p align="center">
-Hi there 👋
-</p>
+# <p align="center"> Hi there 👋 </p>
 
-### <p align="center">
-I'm a FrontEnd Developer and i'm trying to learn BackEnd
-</p>
+### <p align="center"> I'm a FrontEnd Developer and i'm trying to learn BackEnd </p>
 
 ## 🔨 My Skills
 #### ⚗ 2 Years of programming experience
