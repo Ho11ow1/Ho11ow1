@@ -22,11 +22,11 @@ I'm a FrontEnd Developer and i'm trying to learn BackEnd
 <div style="text-align:center">
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=EpicPlayerA10&color=green"/>
+    <img src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=EpicPlayerA10&show_icons=true&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=merko"/>
   </p>
   
   <picture>
