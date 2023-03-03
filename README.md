@@ -15,14 +15,14 @@
 
 ## 📄 Data
 
-<div align="center">
+<div style=align-itmes:center;>
   
   <p>
-    <img style="text-align:center" src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
+    <img src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
   </p>
   
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=merko"/>
   </p>
   
 </div>
