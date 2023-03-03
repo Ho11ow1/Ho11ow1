@@ -10,13 +10,13 @@
 
   ### ⌨ Languages
    Languages that I feel comfortable with: <br> <br>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark">
 
    Others that I know: <br> <br>
-  <img align="center" src="https://skillicons.dev/icons?i=js,ts,py&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark">
 
   <p>
-    <img align="center" src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
+    <img src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
   </p>
   
 </div>
