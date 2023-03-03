@@ -15,7 +15,7 @@
 
 ## 📄 Data
 
-<div style=align-itmes:center;>
+<div align="center">
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
