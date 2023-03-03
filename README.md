@@ -18,11 +18,11 @@
 <div align="center">
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
+    <img align="center" src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=merko"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=merko"/>
   </p>
   
 </div>
