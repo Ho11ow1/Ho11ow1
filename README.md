@@ -9,10 +9,10 @@
   #### 🧰 Frameworks: `Vue` and `React`
 
   ### ⌨ Languages
-  - Languages that I feel comfortable with: <br>
+   Languages that I feel comfortable with: <br> <br>
   <img align="center" src="https://skillicons.dev/icons?i=html,css&theme=dark">
 
-  - Others that I know: <br>
+   Others that I know: <br> <br>
   <img align="center" src="https://skillicons.dev/icons?i=js,ts,py&theme=dark">
 
   <p>
