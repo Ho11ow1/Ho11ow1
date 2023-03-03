@@ -18,7 +18,7 @@
 <div align="center">
   
   <p>
-    <img align="center" src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
+    <img style="text-align:center" src="https://komarev.com/ghpvc/?username=Ho11ow1&color=red"/>
   </p>
   
   <p>
