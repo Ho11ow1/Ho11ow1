@@ -1,20 +1,3 @@
-<html>
-
-<head>
- 
-</head>
- 
-<style>
-  
-  *{
-    box-sizing:border-box;
-  
-    padding:4px;
-    margin:4px;
-  }
-  
-</style>
-
 # <p align="center"> Hi there 👋 </p>
 
 ### <p align="center"> I'm a FrontEnd Developer and i'm trying to learn BackEnd </p>
@@ -26,7 +9,7 @@
   #### 🧰 Frameworks: `Vue` and `React`
 
   ### ⌨ Languages
-   Languages that I feel comfortable with: <br> <br>
+  <p padding="4px" Languages that I feel comfortable with: </p> <br> <br>
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark">
 
    Others that I know: <br> <br>
@@ -37,5 +20,3 @@
   </p>
   
 </div>
-
-</html>
