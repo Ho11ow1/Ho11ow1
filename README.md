@@ -1,3 +1,7 @@
+<html>
+
+<head>
+ 
 <style>
   
   *{
@@ -8,6 +12,8 @@
   }
   
 </style>
+  
+</head>
 
 # <p align="center"> Hi there 👋 </p>
 
@@ -31,3 +37,5 @@
   </p>
   
 </div>
+
+</html>
