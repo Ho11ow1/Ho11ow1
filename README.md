@@ -1,10 +1,10 @@
 <div align="center">
 
-  <p> 
+ # <p> 
  Hi there 👋 
  </p>
 
-  <p> 
+ ### <p> 
  I'm a FrontEnd Developer and i'm trying to learn BackEnd 
  </p>
 
