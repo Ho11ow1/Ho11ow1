@@ -10,7 +10,7 @@
 
   ### ⌨ Languages
    Languages that I feel comfortable with: <br> <br>
-  <img src="https://skillicons.dev/icons?i=cs,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cs,html,css&theme=light">
 
    Others that I know: <br> <br>
   <img src="https://skillicons.dev/icons?i=py&theme=dark">
