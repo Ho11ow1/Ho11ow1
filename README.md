@@ -6,7 +6,7 @@
 
   ## 🔨 My Skills
   #### ⚗ 2 Years of programming experience
-  #### 🧰 Frameworks: `Vue` and `React`
+  #### 🧰 Frameworks: `React`
 
   ### ⌨ Languages
    Languages that I feel comfortable with: <br> <br>
