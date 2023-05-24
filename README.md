@@ -13,6 +13,6 @@
   <img src="https://skillicons.dev/icons?i=cs,html,css&theme=dark">
 
    Others that I know: <br> <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark">
   
 </div>
