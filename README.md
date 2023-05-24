@@ -2,7 +2,7 @@
 
   # <p> Hi there 👋 </p>
 
-  ### <p> I'm a FrontEnd Developer and i'm trying to learn BackEnd </p>
+  ### <p> I'm a Developer that's trying to learn </p>
 
   ## 🔨 My Skills
   #### ⚗ 2 Years of programming experience
