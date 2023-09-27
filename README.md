@@ -5,7 +5,7 @@
   ### <p> I'm a Developer that's trying to learn </p>
 
   ## 🔨 My Skills
-  #### ⚗ 2 Years of programming experience
+  #### ⚗ 3 Years of programming experience
   #### 🧰 Frameworks: `React`
 
   ### ⌨ Languages
