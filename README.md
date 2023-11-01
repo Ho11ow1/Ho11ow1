@@ -7,7 +7,7 @@
   #### 🧰 Frameworks: `React`
 
   ### ⌨ Languages
-   Languages I'm confortable in: <br> <br>
+   Those that I'm confortable in: <br> <br>
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,css&theme=light">
 
    Others that I know: <br> <br>
