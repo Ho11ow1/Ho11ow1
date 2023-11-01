@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### <p> I'm a Software engineer and CS Student </p>
+  ### I'm a Software engineer and CS Student
 
   ## 🔨 My Skills
   #### ⚗ 3 Years of programming experience
