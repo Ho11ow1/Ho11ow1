@@ -2,11 +2,11 @@
 
   ### I'm a Software engineer and CS Student
 
-  ## 🔨 My Skills
+  ## 🔨 My Skills:
   #### ⚗ 3 Years of programming experience
   #### 🧰 Frameworks: `React`
 
-  ### ⌨ Languages
+  ### ⌨ Languages:
    Those that I'm confortable in: <br> <br>
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,css&theme=light">
 
