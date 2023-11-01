@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### I'm a Software engineer and CS Student
+   I'm a Software engineer and CS Student
 
   ## 🔨 My Skills
   #### ⚗ 3 Years of programming experience
