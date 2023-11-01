@@ -1,8 +1,6 @@
 <div align="center">
 
-  # <p> Hi there 👋 </p>
-
-  ### <p> I'm a Developer that's trying to learn </p>
+  ### <p> I'm a Software engineer and CS Student </p>
 
   ## 🔨 My Skills
   #### ⚗ 3 Years of programming experience
