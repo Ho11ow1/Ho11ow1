@@ -8,7 +8,7 @@
 
   ### ⌨ Languages:
    Those that I'm confortable in: <br> <br>
-  <img src="https://skillicons.dev/icons?i=cpp,&theme=light">
+    <img src="https://skillicons.dev/icons?i=cpp,&theme=light">
 
    Others that I know: <br> <br>
   <img src="https://skillicons.dev/icons?i=py&theme=dark">
