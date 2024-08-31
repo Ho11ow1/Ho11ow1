@@ -7,10 +7,10 @@
   #### 🧰 Website Frameworks: `React`
 
   ### ⌨ Languages:
-   Those that I'm confortable in: <br> <br>
+   Those that I'm comfortable in: <br> <br>
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css&theme=light">
 
    Others that I'm familiar with: <br> <br>
-  <img src="https://skillicons.dev/icons?i=py&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,js&theme=dark">
   
 </div>
