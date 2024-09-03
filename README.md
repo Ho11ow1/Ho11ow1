@@ -3,7 +3,7 @@
   ### I'm a Software engineer and CS Student
 
   ## 🔨 My Skills:
-  #### ⚗ 3 Years of programming experience
+  #### ⚗ 4 Years of programming experience
   #### 🧰 Website Frameworks: `React`
 
   ### ⌨ Languages:
@@ -11,6 +11,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css&theme=light">
 
    Others that I'm familiar with: <br> <br>
-  <img src="https://skillicons.dev/icons?i=py,js&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,js,sql,php&theme=dark">
   
 </div>
