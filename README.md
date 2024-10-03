@@ -4,7 +4,7 @@
 
   ## 🔨 My Skills:
   #### ⚗ 4 Years of programming experience
-  #### 🧰 Website Frameworks: `React`
+  #### 🧰 Website Frameworks: `React` `vue`
 
   ### ⌨ Languages:
    Those that I'm comfortable in: <br> <br>
