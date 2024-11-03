@@ -20,15 +20,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<br>
-
 ### 🌱 Currently Learning
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Advanced C++"/>
   <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Advanced JavaScript"/>
 </p>
-
-<br>
 
 ### 💻 Projects
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): Modern website template
@@ -37,3 +33,8 @@
 
 ### 📫 Contact
 - Discord: hollow1vei
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho11ow1&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true" />
+</p>
