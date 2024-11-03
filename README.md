@@ -2,8 +2,6 @@
 
 💜 Software Engineer & CS Student who's passionate about clean code and efficient solutions
 
-<br>
-
 ### 🔨 Skills
 
 #### Proficient in
@@ -36,8 +34,6 @@
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): Modern website template
 - [Banking_Program_v2](https://github.com/Ho11ow1/Banking_Program_v2): Functional banking system
 - [Sorting_algorithm](https://github.com/Ho11ow1/Sorting_algorithm): Template-based sorting implementation
-
-<br>
 
 ### 📫 Contact
 - Discord: hollow1vei
