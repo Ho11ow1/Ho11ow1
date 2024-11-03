@@ -31,10 +31,13 @@
 - [Banking_Program_v2](https://github.com/Ho11ow1/Banking_Program_v2): Functional banking system
 - [Sorting_algorithm](https://github.com/Ho11ow1/Sorting_algorithm): Template-based sorting implementation
 
-### 📫 Contact
-- Discord: hollow1vei
-
+### 📊 GitHub Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho11ow1&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true" />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ho11ow1&theme=midnight-purple&hide_border=true&stroke=6E40C9&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6E40C9&sideLabels=6E40C9&dates=8B949E)](https://git.io/streak-stats)
+
+### 📫 Contact
+- Discord: hollow1vei
