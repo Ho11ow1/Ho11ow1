@@ -2,6 +2,8 @@
 
 💜 Software Engineer & CS Student who's passionate about clean code and efficient solutions
 
+<br>
+
 ### 🔨 Skills
 
 #### Proficient in
@@ -20,16 +22,22 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
+<br>
+
 ### 🌱 Currently Learning
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Advanced C++"/>
   <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Advanced JavaScript"/>
 </p>
 
+<br>
+
 ### 💻 Projects
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): Modern website template
 - [Banking_Program_v2](https://github.com/Ho11ow1/Banking_Program_v2): Functional banking system
 - [Sorting_algorithm](https://github.com/Ho11ow1/-_Sorting_algorithm): Template-based sorting implementation
+
+<br>
 
 ### 📫 Contact
 - Discord: hollow1vei
