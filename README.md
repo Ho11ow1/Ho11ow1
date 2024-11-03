@@ -2,6 +2,8 @@
 
 💜 Software Engineer & CS Student who's passionate about clean code and efficient solutions
 
+<br>
+
 ### 🔨 Skills
 
 #### Proficient in
@@ -35,7 +37,6 @@
 
 ### 📊 GitHub Stats
 <p style="margin-left: 0; padding-left: 0;">
-  <img style="margin-left: 0; padding-left: 0;" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true" />
   <img style="margin-left: 0; padding-left: 0;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho11ow1&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true" />
 </p>
 
