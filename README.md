@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ho11ow1&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho11ow1&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true&hide=vue" />
+  <img height="180em" src="" />
 </p>
 
 <br>
