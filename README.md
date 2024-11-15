@@ -35,7 +35,7 @@
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): Modern website template
 - [Banking_Program_v2](https://github.com/Ho11ow1/Banking_Program_v2): Functional C++ banking system
 - [Sorting_algorithm](https://github.com/Ho11ow1/Sorting_algorithm): Template-based C++ sorting implementation
-- [SimpleCalculator](https://github.com/Ho11ow1/SimpleCalculator): Simple C# Calculator
+- [ResolutionChanger](https://github.com/Ho11ow1/ResolutionChanger): Simple C# Resolution changer
 
 <br>
 
