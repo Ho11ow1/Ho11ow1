@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 #### Familiar with
@@ -25,7 +25,7 @@
 ### 🌱 Currently Learning
 <p align="left">
   <img src="https://img.shields.io/badge/-Advanced%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Advanced%20C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Advanced%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Advanced%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <br/>
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
