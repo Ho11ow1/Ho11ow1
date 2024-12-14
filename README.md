@@ -1,6 +1,6 @@
 # Hello, I'm Hollow1 👋
 
-💜 Software Engineer & CS Student who's passionate about clean code and efficient solutions
+💜 Software Engineer / Developer & CS Student who's passionate about clean code and efficient solutions
 
 <br>
 
