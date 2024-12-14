@@ -38,6 +38,7 @@
 - [Sorting_algorithm](https://github.com/Ho11ow1/Sorting_algorithm): Template-based C++ sorting implementation
 - [HospitalManager](https://github.com/Ho11ow1/HospitalManager): Operational C# hospital manager
 - [ResolutionChanger](https://github.com/Ho11ow1/ResolutionChanger): Simple C# Resolution changer
+- [u_ptr](https://github.com/Ho11ow1/u_ptr): C++ Inspired unique_ptr implementation in C 
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): Modern website template
 
 <br>
