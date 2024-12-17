@@ -26,6 +26,8 @@
 
 ### 🌱 Currently Learning
 <p align="left">
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/-Advanced%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Advanced%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Advanced%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
