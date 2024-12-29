@@ -75,4 +75,3 @@
 
 ### 📫 Contact
 - Discord: hollow1vei
-![Uploading image.png…]()
