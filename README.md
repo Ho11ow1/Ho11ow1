@@ -68,7 +68,7 @@
 ### 🛠️ Software
 - [Banking_Program_v2](https://github.com/Ho11ow1/Banking_Program_v2): A Functional C++ banking system
 - [HospitalManager](https://github.com/Ho11ow1/HospitalManager): An Operational C# hospital manager
-- [ResolutionChanger](https://github.com/Ho11ow1/ResolutionChanger): A Simple C# Resolution changer
+- [ResolutionChanger](https://github.com/Ho11ow1/ResolutionChanger): A Simple C# Resolution changer utilizing the Win32 API
 - [u_ptr](https://github.com/Ho11ow1/u_ptr): A C++ Inspired unique_ptr implementation in C 
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): A Modern website template
 
