@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,10 +23,9 @@
   <summary>💡 Detailed Expertise</summary>
 
   - **Systems Programming**: 
-    - Experienced in memory management, data structures, and algorithm implementation across C/C++/C#
-  - **Game Development**: Proficient in Unity 2D development including:
+    - Experienced in memory management, data structures, and algorithm implementations across C, C++ & C#
+  - **Game Development**: Skilled in Unity 2D development including:
     - Scripting
-    - Component architecture
     - Physics systems (Colliders/Rigidbody)
     - UI implementation
     - Scene management
@@ -64,14 +64,16 @@
 <br>
 
 ## 💻 Projects
+
+### 🛠️ Software
 - [Banking_Program_v2](https://github.com/Ho11ow1/Banking_Program_v2): A Functional C++ banking system
 - [HospitalManager](https://github.com/Ho11ow1/HospitalManager): An Operational C# hospital manager
 - [ResolutionChanger](https://github.com/Ho11ow1/ResolutionChanger): A Simple C# Resolution changer
-- [Project GEEGEE](https://github.com/Ho11ow1/Project-GEEGEE): A Short little game made in unity using C# scripts
 - [u_ptr](https://github.com/Ho11ow1/u_ptr): A C++ Inspired unique_ptr implementation in C 
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): A Modern website template
 
-<br>
+### 🎮 Games
+- [Project GEEGEE](https://github.com/Ho11ow1/Project-GEEGEE): A Short little game made in unity using C# scripts - [Play here](https://ho11ow1.itch.io/project-geegee)
 
 ### 📫 Contact
 - Discord: hollow1vei
