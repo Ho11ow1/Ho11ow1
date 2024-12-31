@@ -72,8 +72,5 @@
 - [u_ptr](https://github.com/Ho11ow1/u_ptr): A C++ Inspired unique_ptr implementation in C 
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): A Modern website template
 
-### 🎮 Games
-- [Project GEEGEE](https://github.com/Ho11ow1/Project-GEEGEE): A Short little game made in unity using C# scripts - [Play here](https://ho11ow1.itch.io/project-geegee)
-
 ### 📫 Contact
 - Discord: hollow1vei
