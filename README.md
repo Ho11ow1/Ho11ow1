@@ -36,6 +36,8 @@
 
 #### Familiar with
 <p align="left">
+  <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=Renpy&logoColor=fff"/>
+  <br/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
@@ -45,8 +47,9 @@
 ### 🌱 Currently Learning
 <p align="left">
   <img src="https://img.shields.io/badge/-Unity%20Advanced%20Features-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=Renpy&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-Advanced%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Advanced%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 <details>
