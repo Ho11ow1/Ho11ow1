@@ -55,7 +55,7 @@
   <summary>🎯 Learning Focus</summary>
 
   - **Advanced Game Development**: 
-    - Advanced ability driven player and ai movement
+    - Advanced ability driven player and enemy movement
     - Enemy AI & combat mechanics
     - Seamless transitions
   - **Programming Language Mastery**:
