@@ -55,9 +55,9 @@
   <summary>🎯 Learning Focus</summary>
 
   - **Advanced Game Development**: 
-    - Resolution management for retro-style games
-    - Pixel-perfect rendering techniques
-    - 3D game development fundamentals
+    - Advanced ability driven player and ai movement
+    - Enemy AI & combat mechanics
+    - Seamless transitions
   - **Programming Language Mastery**:
     - Advanced C# patterns and optimizations
     - Modern C++ features and best practices
