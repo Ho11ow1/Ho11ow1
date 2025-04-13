@@ -73,6 +73,3 @@
 - [ResolutionChanger](https://github.com/Ho11ow1/ResolutionChanger): A Simple C# Resolution changer
 - [u_ptr](https://github.com/Ho11ow1/u_ptr): A C++ Inspired unique_ptr implementation in C 
 - [clean-website-starter](https://github.com/Ho11ow1/clean-website-starter): A Modern website template
-
-### 📫 Contact
-- Discord: hollow1vei
