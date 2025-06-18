@@ -72,6 +72,6 @@
 
 ## 💻 Projects
 
-- [Unity-UI-Motion](https://github.com/Ho11ow1/Unity-UI-Motion): A flexible and lightweight Unity UI animation library
+- [FlowKit](https://github.com/Ho11ow1/FlowKit): A lightweight and flexible animation toolkit for Unity UI and visual effects 
 - [UnityGameDecompiler](https://github.com/Ho11ow1/UnityGameDecompiler): A Unity decompiler built for game analysis & modding
 - [BAcraft](https://github.com/Ho11ow1/BAcraft): A [Blue Archive](https://bluearchive.nexon.com/home) inspired minecraft mod built with the [Fabric API](https://fabricmc.net/)
