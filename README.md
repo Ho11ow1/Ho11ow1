@@ -9,6 +9,7 @@
 <p align="left">
     <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
@@ -30,12 +31,6 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
 </p>
 
-#### Frameworks
-<p align="left">
-    <img src="https://img.shields.io/badge/Avalonia%20UI-8B44AC?style=for-the-badge&logo=dotnet&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
 #### Databases
 <p align="left">
     <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -49,13 +44,12 @@
 
 ### 🌱 Currently Exploring
 <p align="left">
-    <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HLSL%20Shaders-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Daz3D-000000?style=for-the-badge&logo=daz3d&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DRM Security-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Networking-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
 </p>
 <br>
 
 ## 💻 Projects
-- [WillowBot](https://github.com/Ho11ow1/WillowBot) *(private)*: A Discord bot integrated with Twitch & YouTube to help VTubers and other communities with social notifications
+- [FlowKit](https://github.com/Ho11ow1/FlowKit): A lightweight animation and visual effect toolkit for Unity TMPro with 2 distinct modes of operation
 - [RenTale](https://github.com/Ho11ow1/RenTale): A feature-full Ren'Py game project template with integrated Managers, Utilities, Examples, C#-like structure, type-safety, and a customised build pipeline
-
+- [GDownloader](https://github.com/Ho11ow1/GDownloader): An easy to use archive downloader for common file archiving services
